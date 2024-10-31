@@ -7,4 +7,4 @@ Meu nome é Amanda e tenho 15 anos
 - 🤔 Estou procurando ajuda com programação
 - 📫 Como entrar em contato comigo: amanda.cage@escola.pr.gov.br
 
-![]([https://tenor.com/pt-BR/view/the-chosen-jesus-point-look-up-smiling-gif-18032168](https://media1.tenor.com/m/Bi7xs7i4R7IAAAAd/the-chosen-jesus.gif))
+![](https://media1.tenor.com/m/Bi7xs7i4R7IAAAAd/the-chosen-jesus.gif)
