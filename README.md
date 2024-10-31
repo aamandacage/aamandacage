@@ -1,12 +1,10 @@
 ## Olá 👋
 
-<!--
-**aamandacage/aamandacage** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
+Meu nome é Amanda e tenho 15 anos 
 
-Aqui estão algumas ideias para você começar:
-
-- 🔭 Atualmente estou trabalhando no marketing de uma equipe de robótica
+- 🔭 Eu ajudo voluntáriamente no marketing de uma equipe de robótica
 - 🌱 Atualmente estou aprendendo aperfeiçoar os meus conhecimentos
 - 🤔 Estou procurando ajuda com programação
 - 📫 Como entrar em contato comigo: amanda.cage@escola.pr.gov.br
 
+![]([https://tenor.com/pt-BR/view/the-chosen-jesus-point-look-up-smiling-gif-18032168](https://media1.tenor.com/m/Bi7xs7i4R7IAAAAd/the-chosen-jesus.gif))
